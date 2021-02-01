@@ -1,0 +1,10 @@
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\bin\Debug\commodity-accounting-program.exe.config
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\bin\Debug\commodity-accounting-program.exe
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\bin\Debug\commodity-accounting-program.pdb
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\obj\Debug\commodity-accounting-program.csprojAssemblyReference.cache
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\obj\Debug\commodity_accounting_program.Form1.resources
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\obj\Debug\commodity_accounting_program.Properties.Resources.resources
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\obj\Debug\commodity-accounting-program.csproj.GenerateResource.cache
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\obj\Debug\commodity-accounting-program.csproj.CoreCompileInputs.cache
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\obj\Debug\commodity-accounting-program.exe
+C:\Users\manik\OneDrive\Documents\GitHub\commodity-accounting-program\commodity-accounting-program\commodity-accounting-program\obj\Debug\commodity-accounting-program.pdb
